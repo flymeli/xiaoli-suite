@@ -1,0 +1,62 @@
+[
+  {
+    "id": "library-study",
+    "query": "university library quiet study desks students no faces",
+    "status": "ok",
+    "provider": "pixabay",
+    "path": "assets/stock/library-study.jpg",
+    "alt": "library, la trobe, study, students, row, studying, people, learn, students studying, college students studying, sitting, desk, education, college, university, school, university students, academic, college students, campus, indoor, architecture, brown school, brown education, brown library, brown learning, brown study, brown desk, brown studying, library, library, students, students, college, college, college, college, university, university, university, university, university, university students, college students, campus",
+    "author": "andrew_t8",
+    "authorUrl": "https://pixabay.com/users/andrew_t8-1822880/",
+    "sourceUrl": "https://pixabay.com/photos/library-la-trobe-study-students-1400313/",
+    "license": "Pixabay Content License (https://pixabay.com/service/license-summary/)"
+  },
+  {
+    "id": "campus-track",
+    "query": "university running track sunset campus",
+    "status": "ok",
+    "provider": "pexels",
+    "path": "assets/stock/campus-track.jpg",
+    "alt": "A man walks on a running track at sunset, creating a serene and reflective scene.",
+    "author": "Karthik U",
+    "authorUrl": "https://www.pexels.com/@karthik-u-561761",
+    "sourceUrl": "https://www.pexels.com/photo/back-view-of-a-man-walking-on-running-track-during-sunrise-5103671/",
+    "license": "Pexels License (https://www.pexels.com/license/)"
+  },
+  {
+    "id": "robotics-club",
+    "query": "university robotics club workshop students hands",
+    "status": "ok",
+    "provider": "pexels",
+    "path": "assets/stock/robotics-club.jpg",
+    "alt": "Assorted robotics kit components displayed against a bright yellow background, highlighting innovation and technology.",
+    "author": "Tanha Tamanna  Syed",
+    "authorUrl": "https://www.pexels.com/@tanhatamannasyed",
+    "sourceUrl": "https://www.pexels.com/photo/diy-robotics-kit-components-on-vibrant-yellow-35673111/",
+    "license": "Pexels License (https://www.pexels.com/license/)"
+  },
+  {
+    "id": "campus-building",
+    "query": "modern university campus building courtyard",
+    "status": "ok",
+    "provider": "pexels",
+    "path": "assets/stock/campus-building.jpg",
+    "alt": "Elegant university building with garden courtyard in Rabat, Morocco under clear blue sky.",
+    "author": "MELIANI Driss",
+    "authorUrl": "https://www.pexels.com/@droosmo",
+    "sourceUrl": "https://www.pexels.com/photo/green-trees-between-white-concrete-buildings-2982449/",
+    "license": "Pexels License (https://www.pexels.com/license/)"
+  },
+  {
+    "id": "book-exchange",
+    "query": "stack of books student book exchange table",
+    "status": "ok",
+    "provider": "pexels",
+    "path": "assets/stock/book-exchange.jpg",
+    "alt": "Books and coffee on a table, ideal for students or casual reading outdoors.",
+    "author": "RDNE Stock project",
+    "authorUrl": "https://www.pexels.com/@rdne",
+    "sourceUrl": "https://www.pexels.com/photo/eyeglasses-by-paper-cups-and-books-5530668/",
+    "license": "Pexels License (https://www.pexels.com/license/)"
+  }
+]
