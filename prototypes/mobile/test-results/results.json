@@ -1,0 +1,363 @@
+{
+  "ranAt": "2026-11-17T13:09:04.293Z",
+  "chrome": "/usr/local/bin/google-chrome",
+  "total": 65,
+  "failed": 0,
+  "results": [
+    {
+      "name": "无页面错误",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "无外部认证请求",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "欢迎页说明资格",
+      "ok": true,
+      "detail": "校哩\n\n给能够核验学生资格的同学。登录以后，还要分开确认「是不是学生」和「是不是这所学校的学生」。\n\n登录\n认证与帮助"
+    },
+    {
+      "name": "欢迎页不再把注册放在主按钮",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "帮助可从欢迎页进入",
+      "ok": true,
+      "detail": "帮助与反馈\n如何完成学生认证\n候选路径均为演示 / 待验证\n学校信息有误\n发起学校纠错，不自行更换身份\n作品与可见范围\n仅本校、全站已认证学生和审核状态\n私信与账号安全\n请求、拒绝、关闭联系和拉黑\n举报、申诉和处理记录\n恢复案件进度\n问题描述\n提交反馈\n\n未认证、资格失效或账号受限时，帮助与必要账号服务仍可访问。"
+    },
+    {
+      "name": "帮助返回欢迎页",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "登录后进入认证而不是校园",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "登录页没有密码和第三方入口",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "登录文案写明仍需认证且未接短信",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "登录没有密码框和第三方按钮",
+      "ok": true,
+      "detail": "获取验证码 | 查看协议与隐私说明 | 登录并进入认证 | 取消 | 确认 | 取消 | 已完成授权 | 保存草稿并退出 | 放弃修改 | 继续编辑"
+    },
+    {
+      "name": "协议是示意正文",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "同意后回到登录并保留勾选",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "路径可见：微信学生身份快速验证",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "路径可见：支付宝学生 / 校园身份",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "路径可见：掌上大学",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "路径可见：扫码认证小程序",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "路径可见：人工兜底",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "微信路径标明不返回学校且不调用接口",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "审核中不会放行",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "需补充可回到路径",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "拒绝后可以重试",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "掌上大学保持未知",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "毕业不默认通过",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "演示码明确不可当微信码",
+      "ok": true,
+      "detail": "扫码认证演示\n\n备用扫码方案 · 演示 / 待验证 · 未接入微信\n\n扫码认证\n\n这是已登录 App 里的备用路径演示。平台用途和小程序能力都还没验证，不能说已经接入。\n\n演示码 / 占位\n不是微信小程序码，不能扫描\n\n会话 XS-K7ZL · 界面状态 已创建\n\n短时一次性。剩余约 90 秒，过期后要重新生成。凭证不包含姓名、手机号或账号。\n\n刷新后的学生身份：未开始。学校：未确认。\n\n已登录后生成会话\n对方扫码只进入待确认，不改原账号\n微信侧确认这是要绑定的账号\n发起方在"
+    },
+    {
+      "name": "首次扫码不改账号",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "刷新后仍是待确认",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "只完成一侧确认时不写学生标记",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "刷新前界面不提前改标记",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "双方确认并刷新后只确认学生",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "消费后的凭证不能再改状态",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "过期后要重新生成",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "过期会话不能继续扫码绑定",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "取消会话不绑定",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "他人拒绝不会绑定学校",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "人工兜底不采集证件",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "毕业材料不能匹配放行",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "筹备学校不能进本校信息流",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "筹备学校仍可看全站已认证内容",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "未开通学校不可发布",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "发布入口被本校权限挡住",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "暂停学校没有本校信息流",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "本校开放后原校园流还在",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "广场仍在且不是互联网公开",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "发布说明还在",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "可见范围写成全站已认证学生",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "消息主路径还在且没有群聊",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "我的页保留作品入口",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "视频仍用本地文件和原控件",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "视频可以开始播放",
+      "ok": true,
+      "detail": "{\"paused\":false,\"time\":0.0026,\"errorHidden\":true}"
+    },
+    {
+      "name": "资格失效后失去本校权限",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "续验处理中旧资格仍可进校园",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "学生已确认但学校未确认没有本校内容",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "学校未确认不开放新私信",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "学校配置多于两所且不写死四川名单",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "目录页没有把浏览者改成该校学生",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "360 宽手机框没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":360}"
+    },
+    {
+      "name": "360 宽认证路径没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":360}"
+    },
+    {
+      "name": "360 视口扫码页没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":360}"
+    },
+    {
+      "name": "390 宽手机框没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":390}"
+    },
+    {
+      "name": "390 宽认证路径没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":390}"
+    },
+    {
+      "name": "390 视口扫码页没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":390}"
+    },
+    {
+      "name": "430 宽手机框没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":430}"
+    },
+    {
+      "name": "430 宽认证路径没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":430}"
+    },
+    {
+      "name": "430 视口扫码页没有横向溢出",
+      "ok": true,
+      "detail": "{\"screen\":0,\"page\":0,\"nodes\":[{\"id\":\"screen-scroll\",\"delta\":0}],\"width\":430}"
+    },
+    {
+      "name": "直接打开消息不退化",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "screenshots": [
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-welcome.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-auth-home.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-agreements.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-auth-guide.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-reviewing.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-graduate.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-qr-created.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-qr-scanned.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-qr-confirmed.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-school-preparing.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-school-paused.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-campus-open.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-plaza.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-messages.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-mine.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-video.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-expired.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-student-only.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-school-catalog.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/360-campus-frame.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/360-guide-frame.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/360-qr-viewport.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-campus-frame.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-guide-frame.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/390-qr-viewport.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/430-campus-frame.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/430-guide-frame.png",
+    "/opt/cursor/artifacts/xiaoli-prototype-batch1/430-qr-viewport.png"
+  ]
+}

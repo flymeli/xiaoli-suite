@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {
+      "file": "campus-life-20s.mp4, campus-life-poster.jpg",
+      "title": "ECTV - Around Campus",
+      "creator": "CAPS Media",
+      "sourcePage": "https://archive.org/details/capscav-ECTV_-_Around_Campus",
+      "sourceFile": "https://archive.org/download/capscav-ECTV_-_Around_Campus/ECTV_-_Around_Campus.mp4",
+      "license": "CC BY-NC-ND 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "processing": "First 20 seconds, resized to 1282x720, audio removed for prototype use"
+    }
+  ]
+}

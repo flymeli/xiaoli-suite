@@ -1,0 +1,25 @@
+/* 第一批认证 / 学校状态。沿用现有描边按钮、纸感底和灰蓝主题，不另起一套视觉。 */
+.splash-lead { max-width: 16em; margin: 14px 0 0; color: rgba(255,255,255,.92); font-size: 15px; font-weight: 400; line-height: 1.5; letter-spacing: 0; text-align: center; }
+.splash-help { margin-top: 8px; min-height: 44px; padding: 8px 12px; color: #fff; background: transparent; text-decoration: underline; text-underline-offset: 3px; }
+.demo-flag { display: inline-flex; align-items: center; min-height: 26px; margin: 0; padding: 3px 8px; border: 1px dashed var(--border); border-radius: var(--r-pill); color: var(--text-2); background: var(--surface); }
+.status h2 { word-break: keep-all; }
+.auth-note { margin-top: 8px; }
+.path-list { display: flex; flex-direction: column; gap: 10px; }
+.path-card { width: 100%; padding: 14px 16px; color: var(--text); text-align: left; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); }
+.path-card strong, .path-card span { display: block; }
+.path-card span { margin-top: 4px; color: var(--text-2); font-size: var(--t-support); line-height: 1.45; }
+.choice-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.choice-row .chip[aria-pressed="true"] { color: var(--brand); border-color: var(--brand); }
+.auth-steps { margin: 0; padding-left: 1.2em; color: var(--text-2); }
+.auth-steps li { margin: 6px 0; }
+.demo-code { display: grid; place-items: center; min-height: 168px; padding: 16px; text-align: center; background:
+  repeating-linear-gradient(90deg, transparent 0 10px, rgba(29,29,31,.08) 10px 11px),
+  repeating-linear-gradient(0deg, transparent 0 10px, rgba(29,29,31,.08) 10px 11px),
+  var(--surface);
+  border: 1px dashed var(--border); border-radius: var(--r-card); }
+.demo-code strong { padding: 6px 10px; background: var(--surface); }
+.demo-code span { display: block; margin-top: 6px; color: var(--text-2); font-size: var(--t-support); }
+.split-status { display: grid; gap: 8px; }
+.split-status .school-card { margin: 0; }
+.preset-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+.preset-grid .chip { min-height: 36px; }
